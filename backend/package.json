@@ -1,0 +1,14 @@
+{
+  "name": "my_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Aneka Srivastava",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {}
+}
